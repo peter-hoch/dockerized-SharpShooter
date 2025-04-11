@@ -3,7 +3,7 @@
 
 ## Disclaimer
 The image is for development and education only.  
-The image is unsecure due to old and eol software  
+The image is unsecure due to old and end of life software  
 Use only in a safe sandboxed environment!  
 
 ## Tool info
@@ -15,3 +15,4 @@ Use only in a safe sandboxed environment!
 ```bash
 docker run --rm -it -v `pwd`:/app petersdockerid0815/sharpshooter  
 ```
+
